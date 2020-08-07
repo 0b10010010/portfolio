@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# Alex Kim's Engineering Portfolio
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Hello, thank you for stopping by! My name is Alex and I am a graduate student in Mechanical Engineering at Kansas State University. My focus is in automatic controls with embedded systems. I have developed my interest in this field by joining a student competition organization, SUAS Design Team (Small Unmanned Aerial Systems).
+I have led the team as a president for a year when I was elected to the leadership position, as well as serving the team as a team leader of Image Analysis subteam and as a treasurer.
+With the background in controls, I have been teaching [Controls](https://catalog.k-state.edu/preview_course_nopop.php?catoid=16&coid=82554) lab sections for undergraduate students here at Kansas State.
