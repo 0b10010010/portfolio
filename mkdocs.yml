@@ -9,8 +9,7 @@ site_url: https://0b10010010.github.io/portfolio/
 repo_name: 0b10010010/portfolio
 repo_url: https://github.com/0b10010010/portfolio
 
-copyright: "Copyright &copy; 2020 Donghyun Alex Kim"
-
 theme:
   name: material
 
+copyright: "Copyright &copy; 2020 Donghyun Alex Kim"
