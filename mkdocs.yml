@@ -1,4 +1,15 @@
-site_name: My Docs
+# Copyright 2020 Donghyun Alex Kim
+# Based on https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
+
+site_name: Alex Kim
+site_description: My portfolio of engineering work
+site_author: Alex Kim
+site_url: https://0b10010010.github.io/portfolio/
+
+repo_name: 0b10010010/portfolio
+repo_url: https://github.com/0b10010010/portfolio
+
+copyright: "Copyright &copy; 2020 Donghyun Alex Kim"
 
 theme:
   name: material
