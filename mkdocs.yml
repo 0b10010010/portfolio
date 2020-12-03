@@ -11,5 +11,14 @@ repo_url: https://github.com/0b10010010/portfolio
 
 theme:
   name: material
+  favicon: img/cpu.svg
 
 copyright: "Copyright &copy; 2020 Donghyun Alex Kim"
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
