@@ -4,7 +4,9 @@
 site_name: Alex Kim
 nav:
   - Home: index.md
-  - Projects: projects.md
+  - Projects:
+    - SUAS Design Team: projects/suas.md
+    - 4D Avionic Systems: projects/4davsys.md
 site_description: Portfolio of my engineering work
 site_author: Alex Kim
 site_url: https://0b10010010.github.io/portfolio/
