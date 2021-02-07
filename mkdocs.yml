@@ -1,14 +1,14 @@
 # Copyright 2020 Donghyun Alex Kim
 # Based on https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
 
-site_name: Alex Kim
+site_name: Donghyun Kim
 nav:
   - Home: index.md
   - Projects:
     - SUAS Design Team: projects/suas.md
     - 4D Avionic Systems: projects/4davsys.md
 site_description: Portfolio of my engineering work
-site_author: Alex Kim
+site_author: Donghyun Kim
 site_url: https://0b10010010.github.io/portfolio/
 
 repo_name: 0b10010010/portfolio
@@ -19,7 +19,7 @@ theme:
   favicon: img/cpu.svg
   logo: img/cpu-fill.svg
 
-copyright: Copyright &copy; 2020 Donghyun Alex Kim
+copyright: Copyright &copy; 2020 Donghyun Kim
 
 markdown_extensions:
   - pymdownx.emoji:
